@@ -1,0 +1,42 @@
+:root {
+
+  /* PRIMARY */
+  --color-primary-green: #1FA34A;
+  --color-primary-blue: #1572B6;
+
+  /* DARK */
+  --color-green-dark: #12803A;
+  --color-blue-dark: #0D5C97;
+
+  /* LIGHT */
+  --color-green-light: #4FCB74;
+  --color-mint: #8EE3B0;
+  --color-aqua: #2BA7C9;
+  --color-sky: #66C7E8;
+
+  /* NEUTRALS */
+  --color-bg: #F4F7F6;
+  --color-surface: #FFFFFF;
+  --color-border: #D9E3E0;
+
+  /* TEXT */
+  --color-text-primary: #1E2A28;
+  --color-text-secondary: #546260;
+
+  /* STATES */
+  --color-success: #1FA34A;
+  --color-warning: #F4B740;
+  --color-error: #E04F5F;
+  --color-info: #2BA7C9;
+
+  /* HOVERS */
+  --hover-green: #12803A;
+  --hover-blue: #0D5C97;
+
+  /* GRADIENT */
+  --gradient-primary: linear-gradient(
+    135deg,
+    #1FA34A 0%,
+    #1572B6 100%
+  );
+}
